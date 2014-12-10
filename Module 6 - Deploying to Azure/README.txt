@@ -1,0 +1,1 @@
+If you've cloned this repo, you'll need to copy the demo01 folder somewhere else in order to deploy to Azure. Otherwise you'll have Git conflicts! Watch our video to see how we do it at http://www.microsoftvirtualacademy.com/liveevents/php-for-azure
