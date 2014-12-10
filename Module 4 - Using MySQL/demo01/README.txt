@@ -1,0 +1,1 @@
+We used phpMyAdmin to update our database. Check back at http://www.microsoftvirtualacademy.com/liveevents/php-for-azure for a recap on how to do that!
